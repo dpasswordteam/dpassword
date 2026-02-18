@@ -21,7 +21,7 @@ Never share your passphrase or private keys with anyone and keep them in a safe 
 ## Setup
 1) Download or clone the repository using:
 ```sh
-git clone https://github.com/urumat/master2024-dePass.git
+git clone https://github.com/dpasswordteam/dpassword.git
 ```
 2) Navigate to the backend folder and install dependencies:
 ```sh
